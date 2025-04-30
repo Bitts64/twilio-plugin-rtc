@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.9.0
+
+### Enhancement
+- Upgraded @twilio/cli-core from 6.7.0 to 6.8.1
+- Adjusted the token generation function to support version 4.x and higher of the twilio-cli
+
+### Maintenence
+- Upgraded jest from 26.0.0 to 29.7.0
+
 ## 0.8.4
 
 ### Enhancement
